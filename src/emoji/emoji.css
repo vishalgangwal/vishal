@@ -1,0 +1,80 @@
+body{
+    background-color: rgba(199, 211, 211, 0.849);
+    margin: 50px 30px;
+    
+}
+.heading{
+    font-size: 2em;
+    margin: 12px 20px;
+    color:rgb(246, 249, 255);
+}
+.Emo_card{
+max-width: 400px;
+min-width: 400px;
+background-color: rgb(83, 54, 29);
+box-shadow: 5px 13px 15px rgba(4, 48, 48, 0.849);
+border-radius: 25px;
+float: left;
+margin: 10px 10px;
+}
+@media screen and (min-width: 480px) {
+    .Emp_card{
+        width: 90px;
+        border-radius: 5px;
+        color: chartreuse;
+        color: cornflowerblue;
+        margin: 3px 0;
+    }
+    .heading{
+        font-size: 2em;
+        margin: 5px 10px;
+        color:rgb(246, 249, 255);
+    }
+    .detail{
+        text-align:center;
+        }
+}
+@media screen and (max-width: 480px) {
+    .Emp_card{
+        width: 50px;
+        border-radius: 5px;
+        color: chartreuse;
+        color: cornflowerblue;
+        margin: 3px 0;
+    }
+    .heading{
+        font-size: 2em;
+        margin: 5px 10px;
+        color:rgb(246, 249, 255);
+    }
+    .detail{
+        text-align:center;
+        }
+}
+@media screen and (min-width: 480px) {
+    .Emp_card{
+        width: 90px;
+        border-radius: 5px;
+        color: chartreuse;
+        color: cornflowerblue;
+        margin: 3px 0;
+    }
+    .heading{
+        font-size: 2em;
+        margin: 5px 10px;
+        color:rgb(246, 249, 255);
+    }
+    .detail{
+        text-align:center;
+        }
+}
+.image{
+ background-color: crimson;
+ 
+
+}
+.detail{
+color: rgb(246, 249, 255);    
+padding: 5px 20px;
+text-align: justify;
+}

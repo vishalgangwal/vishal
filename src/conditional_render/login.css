@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(63, 124, 124);
+}
+.form1{
+    width: 200px;
+    padding: 12px;
+    margin: 12px auto;
+    background-color: darkgoldenrod  ;
+}
+.form1 input{
+    padding: 7px;
+    margin: 10px;
+}

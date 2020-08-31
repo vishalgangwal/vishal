@@ -1,0 +1,25 @@
+body{
+background-color: rgb(253, 224, 94);
+margin: 12px auto;
+
+}
+.Box{
+ width: 400px;
+ margin: 2px auto;
+ border-radius: 10px;
+ background-color: radial-gradient(#bfc0c1 7.2%, transparent 0);
+ /* background-color: rgb(255, 253, 253); */
+}
+.Box input{
+    padding: 15px 10px;
+    outline: none;
+    font-size:1rem ;
+    border-style: none;
+    border-bottom: 3px dotted rgb(253, 60, 60);
+}
+.Box button{
+    padding: 15px 20px;
+    border-radius: 5px;
+    font-size:15px ;
+    background-color: rgb(255, 253, 253);   
+}
